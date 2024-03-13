@@ -47,14 +47,14 @@
 <h3>상위그룹 크리쳐 통계</h3>
 </br>
   <ul>
-  <img src='https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/a122ecc0-fc64-4624-bfc2-06f194e87c9b'>
+  <img src='https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/7436f4b5-2d1c-4363-a774-beb4337e7cc9'>
     새로운 종결 크리쳐(에를리히, 슈므)가 약 27%를 차지했습니다. 또한, 가성비(세리아) 크리쳐는 약 13%임을 확인.
 </ul>
   
   </br></br>
 <h3>명성에 따른 현황 시각화</h3>
   <ul> 
-  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/b8afeace-c8c5-4f51-8f81-5433bec20f82'>
+  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/f675bfb9-92e1-4477-a86c-fde4495d8fb7'>
 그룹화는 상위 1만, 3만, 10만, 그리고 10만 명 이상으로 그룹화하여 시각화를 진행. 그 결과 약 상위 30만 유저까지는 종결 크리쳐로 더 많이 넘어간 모습을 확인.
 </ul>
 
@@ -64,7 +64,7 @@
 
   <h4>고스팩 유저의 모험단 그룹화</h4>
   <ul> 
-  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/7b83d8d6-0b2f-4369-b3d9-5497ca3df224'>
+  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/6c94b88e-8101-4755-a1a8-149f5c8b2c91'>
   
   1개 캐릭터(본캐)만 육성 중인 유저는 약5만 명(8%)인 것을 확인. 유저의 소비패턴이 고스팩 캐릭이 하나일 경우와 여러개일 경우 다를 수 있어 세분화 진행.
   </ul>
