@@ -46,16 +46,32 @@
   
 <h3>상위그룹 크리쳐 통계</h3>
 </br>
+
   <ul>
+    <h4>아라드 패스 S1</h4>
   <img src='https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/7436f4b5-2d1c-4363-a774-beb4337e7cc9'>
     새로운 종결 크리쳐(에를리히, 슈므)가 약 27%를 차지했습니다. 또한, 가성비(세리아) 크리쳐는 약 13%임을 확인.
-</ul>
+  </ul>
+
+  <ul>
+  <h4>아라드 패스 S2</h4>
+  <img src='https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/9c4d363b-e0af-4f4a-b2fb-c01023809cb5'>
+     아라드패스 S2에서도 최종 보상으로 신규 종결 크리쳐를 제공하고 있음. 나아가 아직 선계 패키지를 판매하고 있어 지속적으로 수가 증가하는것을 확인할 수 있음.
+  </ul>
   
   </br></br>
 <h3>명성에 따른 현황 시각화</h3>
   <ul> 
-  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/f675bfb9-92e1-4477-a86c-fde4495d8fb7'>
+  <h4>아라드 패스 S1</h4>
+  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/71983738-1879-425b-a695-32dd00bff453'>
 그룹화는 상위 1만, 3만, 10만, 그리고 10만 명 이상으로 그룹화하여 시각화를 진행. 그 결과 약 상위 30만 유저까지는 종결 크리쳐로 더 많이 넘어간 모습을 확인.
+</ul>
+
+
+  <ul> 
+  <h4>아라드 패스 S2</h4>
+  <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/5671a578-f676-4a9e-88dd-631caa1fea4d'>
+패스 S2가 시작된 후 S1과 비교하여 상위 유저들의 수가 증가한 것을 확인할 수 있음. 특히 30만 유저까지 종결크리쳐가 더 많았다면 S2시작 이후 36만 선으로 내려온 것을 확인할 수 있음. 이는 많은 상위 캐릭터들이 종결 크리쳐로 넘어갔다는 증거.
 </ul>
 
   </br></br>
