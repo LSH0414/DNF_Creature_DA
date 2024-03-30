@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from datetime import datetime
 
-api_key = 'ZsCol9d9D4nPcF7aSxdENNV2DvBJnsps'
+api_key = 'YOURE API_KEY'
 
 def get_item_sold_price(itemName=None, itemId = None):
     
