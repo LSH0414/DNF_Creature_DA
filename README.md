@@ -131,7 +131,7 @@
 </ul>
 
   </br></br>
-  <ul><h3>(번외) 크리쳐 스킨은 상황은...?</h3></ul>  
+  <ul><h3>(번외) 크리쳐 스킨은 상황은...?</h3></ul>  
   <ul> 
     <img src = 'https://github.com/LSH0414/DNF_Creature_DA/assets/119479455/6d3c48d0-c4f4-4320-9617-a1165158cd12'>
   
